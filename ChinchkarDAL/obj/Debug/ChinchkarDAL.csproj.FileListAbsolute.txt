@@ -7,3 +7,7 @@ C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.
 C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.pdb
 C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.dll
 C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.pdb
+C:\Users\User\Documents\GitHub\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.dll
+C:\Users\User\Documents\GitHub\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.pdb
+C:\Users\User\Documents\GitHub\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.dll
+C:\Users\User\Documents\GitHub\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.pdb

@@ -5,3 +5,9 @@ C:\Users\User\Downloads\Chinchkar\Chinchkar\Chinchkar\bin\AjaxControlToolkit.dll
 C:\Users\User\Downloads\Chinchkar\Chinchkar\Chinchkar\obj\Debug\Chinchkar.csprojResolveAssemblyReference.cache
 C:\Users\User\Downloads\Chinchkar\Chinchkar\Chinchkar\obj\Debug\Chinchkar.dll
 C:\Users\User\Downloads\Chinchkar\Chinchkar\Chinchkar\obj\Debug\Chinchkar.pdb
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\bin\Chinchkar.dll
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\bin\Chinchkar.pdb
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\obj\Debug\Chinchkar.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\obj\Debug\Chinchkar.dll
+C:\Users\User\Documents\GitHub\Chinchkar\Chinchkar\obj\Debug\Chinchkar.pdb
