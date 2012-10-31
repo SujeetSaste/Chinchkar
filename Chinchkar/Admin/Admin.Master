@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Chinchkar.Admin.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Chinchkar Services Admin</title>
+    <link rel="Stylesheet" href="../css/bootstrap-responsive.css" />
+    <link rel="Stylesheet" href="../css/bootstrap.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <a class="brand" href="#">Chinchkar</a>
+                <div class="nav-collapse collapse" style="font-family:Calibri;font-size:17px;">
+                    <p class="navbar-text pull-right">
+                        Logged in as <a href="#" class="navbar-link">
+                            <asp:LoginView ID="loginView" runat="server">
+                                <AnonymousTemplate>
+                                    Please Log in to view details.
+                                </AnonymousTemplate>
+                                <LoggedInTemplate>
+                                    <asp:LoginName ID="loginName" runat="server" Font-Bold="true" />
+                                </LoggedInTemplate>                                
+                            </asp:LoginView>
+                            <asp:LoginStatus ID="loginStatus" runat="server" LogoutAction="Redirect" LogoutPageUrl="~/Login.aspx" />
+                        </a>
+                    </p>
+                    <ul class="nav">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Marriage</a></li>
+                        <li><a href="#">Properties</a></li>
+                        <li><a href="#">Tourism</a></li>
+                        <li><a href="#">Consultancy</a></li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+        </div>
+    </div>
+    <div class="container" style="min-height:500px">
+    <br />
+    <br />
+    <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="modal-footer">
+    &copy; archinchkar.com All Rights Reserved
+    </div>
+    </form>
+</body>
+</html>

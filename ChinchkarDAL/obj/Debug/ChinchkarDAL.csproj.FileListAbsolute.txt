@@ -1,0 +1,9 @@
+D:\Projects\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.dll
+D:\Projects\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.pdb
+D:\Projects\Chinchkar\ChinchkarDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.dll
+D:\Projects\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.pdb
+C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.dll
+C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\bin\Debug\ChinchkarDAL.pdb
+C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.dll
+C:\Users\User\Downloads\Chinchkar\Chinchkar\ChinchkarDAL\obj\Debug\ChinchkarDAL.pdb
